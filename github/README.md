@@ -2,7 +2,7 @@
 
 [https://opensource.org/licenses](https://opensource.org/licenses)
 
-[https://shields.io/](https://shields.io/)
+[https://shields.io](https://shields.io)
 
 ## Open Source Love
 
