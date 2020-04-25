@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="94" height="20">
-<g shape-rendering="crispEdges">
+<svg onload="javascript:alert(1)" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="94" height="20">
+<g shape-rendering="crispEdges" onload="javascript:alert(1)">
 <rect width="49" height="20" fill="#555"/>
 <rect x="49" width="45" height="20" fill="#007ec6"/>
 </g>
